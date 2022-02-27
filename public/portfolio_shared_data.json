@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "name": "Bharat Verse",
+    "titles": [
+      "Welcome to the virtual world and explore infinite adeventure and knowledge."
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "event": {
+    "name": "Gameathon",
+    "title": [
+      "Are you a game developer or a gamer?This is your golden opportunity to make something marvellous. Wether you are a one-man army or a team get your gears on and showcase your talent."
+    ],
+    "lastDate": [
+      "18/03/2022"
+    ],
+    "dateofevent": [
+      "1/04/2022"
+    ]
+  },
+  "social": {
+    "icons": [
+      {
+        "name": "Instagram",
+        "url": "http://www.instagram.com",
+        "class": "fa-brands fa-instagram-square",
+        "level": "95"
+      },
+      {
+        "name": "Discord",
+        "url": "https://www.discord.com",
+        "class": "fa-brands fa-discord",
+        "level": "95"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com",
+        "class": "fa-brands fa-facebook",
+        "level": "80"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://www.twitter.com",
+        "class": "fa-brands fa-twitter",
+        "level": "90"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com",
+        "class": "fa-brands fa-linkedin",
+        "level": "70"
+      }
+    ]
+  }
+}
