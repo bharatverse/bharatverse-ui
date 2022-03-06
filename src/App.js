@@ -7,7 +7,7 @@ import About from "./components/About";
 import Roadmap from "./components/Roadmap";
 import Projects from "./components/Projects";
 import Skills from "./components/Social";
-import Events from "./components/Events";
+
 
 class App extends Component {
 
@@ -122,9 +122,7 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        <Events
-          eventInfo={this.state.sharedData.event}
-        />
+      
         <Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
