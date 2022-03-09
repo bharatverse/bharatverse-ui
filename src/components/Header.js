@@ -39,7 +39,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <img src="../../public/kozmoverse.ico"></img>
+              <img src="kozmoverse.ico"></img>
               <br/>
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />

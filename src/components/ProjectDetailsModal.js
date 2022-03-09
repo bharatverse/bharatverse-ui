@@ -79,23 +79,10 @@ class ProjectDetailsModal extends Component {
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
               {title}
-              {url ? (
-                <a
-                  href={url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="link-href"
-                >
-                  <i
-                    className="fas fa-external-link-alt"
-                    style={{ marginLeft: "10px" }}
-                  ></i>
-                </a>
-              ) : null}
             </h3>
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
-              <ul className="list-inline mx-auto">{tech}</ul>
+              
             </div>
           </div>
         </div>

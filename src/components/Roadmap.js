@@ -21,7 +21,7 @@ class Roadmap extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fa-solid fa-calendar-star roadmap-icon"></i>}
+            icon={<i className="fa fa-calendar fa-2 roadmap-icon"></i>}
             key={i}
           >
             <h3
